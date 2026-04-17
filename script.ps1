@@ -45,6 +45,5 @@ while (-not $process.HasExited) {
     }
 }
 
-$process.Kill()
 
 Write-Host "[5/5] Done!"
